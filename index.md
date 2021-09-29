@@ -1,3 +1,5 @@
+### [Trang chủ](https://ppap-1264589.github.io/interesting-solution)
+
 ## RMQ(2D)
 
 ### [Bài Toán](https://github.com/ppap-1264589/RMQ/files/6962420/C.-.RMQ.pdf)
@@ -81,4 +83,3 @@ signed main (){
     return 0;
 }
 ```
-### [Trang chủ](https://ppap-1264589.github.io/interesting-solution)
